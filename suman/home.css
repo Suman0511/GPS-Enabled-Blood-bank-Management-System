@@ -1,0 +1,66 @@
+.container img{
+    height: 20rem;
+    width: 20rem;
+    margin: 20px;
+    text-align: center;
+}
+
+.blood{
+   height: 50px;
+   background-color: rgb(254, 133, 133);
+   margin-top: 10px;
+   padding: 10px;
+   margin: 10px 10px 10px 5px;
+   border-radius: 10px;
+   text-align: center;
+   font-size: 30px;
+    
+}
+
+.card-1{
+    height: 40vh;
+    margin-top: 30px;
+    padding: 20px;
+}
+.card{
+    height: 70vh;
+}
+
+.card-1-title{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.card-text-1 {
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.card-title{
+    text-align: center;
+    font-size: 2rem;
+    color: red;
+}
+
+.card-text {
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+.container-data{
+    margin: 50px;
+    width: 180vh;
+    text-align: center;
+    margin-left: 100px;
+    background-color: #fff;
+}
+
+.add-btn{
+    height: 2rem;
+}
+
+.camp h2{
+    text-align: center;
+    color: #fff;
+}
